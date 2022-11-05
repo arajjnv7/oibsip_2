@@ -1,0 +1,37 @@
+body {
+    background-image: url('https://images.unsplash.com/photo-1603071604483-bf4e87dd13ec?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1932&q=80');
+}
+.navbar, .navbar-brand, .nav {
+    font-size: x-large;
+    color: black;
+}
+.image {
+    display: inline;
+}
+img {
+    width: 30vw;
+    margin-top: 05vh;
+    margin-left: 10vw;
+}
+.welcome {
+    font-size: 50px;
+    font-family: cursive;
+    text-align: center;
+    width: 100vw;
+    color: darkgreen;
+}
+.go_green {
+    font-size: 100px;
+    color: green;
+    font-family: cursive;
+    margin-left: 12vw;
+    margin-top: 05vh;
+
+}
+.do {
+    font-size: 30px;
+    color: blue;
+    width: 5vw; 
+    display: inline;
+    background-color: antiquewhite;
+}
